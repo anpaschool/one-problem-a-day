@@ -33,7 +33,7 @@ class Solution:
           
 #-----------Complexity Analysis---------------
 #Time complexity : O(m). A total of mm nodes need to be traversed.
-#Here, mm represents the minimum number of nodes from the two given trees.
+#Here, m represents the minimum number of nodes from the two given trees.
 #-------------------------------------
-#Space complexity : O(m). The depth of the recursion tree can go upto mm in
-#the case of a skewed tree. In average case, depth will be O(logm)O(logm).
+#Space complexity : O(m). The depth of the recursion tree can go upto m in
+#the case of a skewed tree. In average case, depth will be O(logm).
